@@ -86,7 +86,7 @@ pip install pandas numpy
 ##  Author
 
 **Sunnygking**
-GitHub: [@Sunnygking](https://github.com/Sunnygking)
+GitHub: [@Sunnyngking](https://github.com/Sunnyngking)
 
 ---
 
